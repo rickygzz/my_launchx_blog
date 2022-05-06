@@ -1,17 +1,17 @@
 ---
-title: 'Acerca de me'
+title: 'About Ricardo Gonzalez'
 menu:
   main:
     name: "AboutMe"
 ---
 
-## ¿Quién soy=
+## Who am I?
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+Hey! here you will read a little bit about me 🤩
 
-> Soy Ingeniero Mecánico Eléctrico egresado en el 2008.
-> Aficionado con pasión a la programación.
-> Me encatan los retos y el continuo aprendizaje.
+> I am a Mechanical and Electrical Engineer graduated from ITESM Campus Monterrey 2008.
+> I am passionate about programming since 1996.
+> I like challenges and continuous learning.
 
-Mi nombre es Ricardo González y espero que me conozcas más al leer mi blog.
+My name is Ricardo González and I hope you will learn more about me while reading my blog.
 
